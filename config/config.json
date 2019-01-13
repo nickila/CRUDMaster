@@ -1,8 +1,8 @@
 {
   "development": {
     "username": "root",
-    "password": "vegetable",
-    "database": "exampledb",
+    "password": "sesame",
+    "database": "budgetdb",
     "host": "localhost",
     "dialect": "mysql"
   },
